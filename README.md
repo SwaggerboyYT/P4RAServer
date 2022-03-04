@@ -1,16 +1,7 @@
-<div align=center>
-  <img src="https://i.imgur.com/DGlUCaU.png" alt="Logo">
-  ### P4RA Server, the fortnite private server
-</div>
-<br>
+Fortnite private server for older versions
 
-# P4RAServer
-Welcome to the Github page of our server!
-
-This will not work on newer versions!
-Also you need NodeJS Installed!
-
-##Usage
-run install.bat
-run start.bat
-redirect the server to localhost:9999
+## Usage
+Install [NodeJS](https://nodejs.org/en/)
+Run install.bat
+Run start.bat
+Use something to redirect the fortnite servers to localhost:3551 (Which could be fiddler, ssl bypass that redirects servers, etc...)
