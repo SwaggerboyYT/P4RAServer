@@ -4,7 +4,7 @@ Welcome to the Github page of our server!
 This will not work on newer versions!
 Also you need NodeJS Installed!
 
-#Usage
+##Usage
 run install.bat
 run start.bat
 redirect the server to localhost:9999
