@@ -2,6 +2,7 @@
   <img src="https://i.imgur.com/DGlUCaU.png" alt="Logo">
   ### P4RA Server, the fortnite private server
 </div>
+<br>
 
 # P4RAServer
 Welcome to the Github page of our server!
