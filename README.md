@@ -30,3 +30,6 @@ P4RA Server is a Fortnite private server for older fortnite versions.
    }  
    ```
 5) Now you can Start your Fortnite version
+
+## Credits
+Credits to [Lawin Server](https://github.com/Lawin0129/LawinServer) [Lawin](https://github.com/Lawin0129)
