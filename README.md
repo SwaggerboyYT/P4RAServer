@@ -1,3 +1,7 @@
+<div align=center>
+  <img src="https://i.imgur.com/DGlUCaU.png" alt="Logo">
+</div>
+
 # P4RAServer
 Welcome to the Github page of our server!
 
